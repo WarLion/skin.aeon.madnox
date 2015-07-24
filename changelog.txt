@@ -1,3 +1,39 @@
+ ---------------------------------------------
+| AEON MADNOX v.1.0 HELIX / ISENGARD (PLUS LIVE TV MOD) |
+ ---------------------------------------------
+
+June 1st, 2015
+
+- Forked from ShedNox, new version due to Shednox no longer being maintained.
+- Works on both Helix and Isengard.
+
+Added Views:
+
+Benner Info
+FanartList
+KodiFlix
+Rightlist
+Sets
+Wall Large
+
+Main Improvements:
+
+Added Manfeed's latest Music Vizulization mod.
+Added Fake Disc Artwork to Movies and Music, Movies has additional options of either using Artwork or a Fake Disc with handwriting.
+Updated several existing views to work better.
+
+CHANGELOG 23/07/15 (Revision 0.0.4):
+
+KodiFlix updates - swtiches Hide Info, Center List, Dim List.
+Rightlist available for music - all levels.
+Sets update.
+infowall update.
+InfoPanel update.
+Lowlist updatee.
+Panel updatee.
+Tri-panel update.
+Additional bugs & fixes.
+
 CHANGELOG 17/07/15 (Revision 0.0.3):
 
 FakeDisc Art (Posters only) added to info screen, FakeDiscArt must be selected.
@@ -6,3 +42,18 @@ Use Extended Info switch added to Skin Settings.
 IMDB Icon switch added to Kodiflix View.
 MPAA & Music backgrounds graphics update.
 Additional bugs & fixes.
+Various views updated:
+
+CHANGELOG 10/07/15:
+
+Major upgrade of KodiFlix view.
+viewtypesettings - Kodiflix thumbnail info on episodes now available
+skinsettings - removed moreinfo dependancies against backend switch
+LowList view - Cases for Tvshows - Tvshows & Seasons levels, Fakediscs for Seasons - both controlled via settings.
+New version of some graphic files, smaller in size.
+Relocated 'Extended Info' from extras menu to button in main Info view for Movies & TV shows.
+Font issue resolved on Native Extended info view.
+Reload button on context menu - to reload the skin should backgrounds disappear and hopefully correct the issue.
+Updated Skin specific extended info views.
+Small bugs & fixes.
+
